@@ -1,0 +1,8 @@
+streamlit>=1.37,<2
+pandas>=2.0,<3
+folium>=0.17,<1
+streamlit-folium>=0.22,<1
+streamlit-js-eval>=0.1.7
+streamlit-autorefresh>=1.0.1
+openpyxl>=3.1,<4
+Pillow>=10,<12
